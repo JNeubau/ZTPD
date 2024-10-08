@@ -1,8 +1,8 @@
 # Contents
-- Obiektowo-relacyjne bazy danych (11.10.2024) - DONE
-- Duze Obiekty Binarne (BLOB) (18.10.2024) - DONE
-- Duze Obiekty Tekstowe (CLOB) (25.10.2024) - DONE
-- Oracle Spatial: Typ SDO_GEOMETRY (8.11.2024) - DONE
+- Obiektowo-relacyjne bazy danych (11.10.2024) - **DONE**
+- Duze Obiekty Binarne (BLOB) (18.10.2024) - **DONE**
+- Duze Obiekty Tekstowe (CLOB) (25.10.2024) - **DONE**
+- Oracle Spatial: Typ SDO_GEOMETRY (8.11.2024) - **DONE**
 - Oracle Spatial: Przetwarzanie danych (15.11) - TBC
 - Oracle Spatial: Standard SQL/MM (22.11)
 - Oracle Spatial: Układy LRS (29.11)
