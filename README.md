@@ -10,4 +10,4 @@
 9. XSL (13.12) - **DONE** + zajęcia
 10. XQuery (20.12) - **DONE**
 11. Oracle Text (10.01) - **DONE**
-12. Lucene (17.01) - **DONE**
+12. Lucene (11_lucene) (17.01) - **DONE**
